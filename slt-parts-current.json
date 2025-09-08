@@ -10,7 +10,7 @@
     ],
     "memory": {
       "Laptop": [
-        { "name": "8GB_DDR5_笔记本",  "lanhai": 22,   "yadan": 21 },
+        { "name": "8GB_DDR5_笔记本",  "lanhai": 220,   "yadan": 210 },
         { "name": "16GB_DDR5_笔记本", "lanhai": 37, "yadan": 39 },
         { "name": "32GB_DDR5_笔记本", "lanhai": 71,   "yadan": 78 }
       ],
