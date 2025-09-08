@@ -1,0 +1,15 @@
+{
+  "version": "2025-09",
+  "parts": {
+    "storage": [
+      {"name":"硬盘_128GB_SSD","lanhai":14.1,"yadan":9.9},
+      {"name":"硬盘_256GB_SSD","lanhai":17.2,"yadan":11.8}
+    ],
+    "memory": {
+      "Laptop": [
+        {"name":"8GB_DDR5_笔记本","lanhai":21.8,"yadan":21.0},
+        {"name":"16GB_DDR5_笔记本","lanhai":41.9,"yadan":39.9}
+      ]
+    }
+  }
+}
