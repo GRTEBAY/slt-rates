@@ -4,7 +4,7 @@
     "storage": [
       { "name": "硬盘_128GB_SSD", "lanhai": 14.25, "yadan": 10 },
       { "name": "硬盘_256GB_SSD", "lanhai": 17.5,  "yadan": 12 },
-      { "name": "硬盘_512GB_SSD", "lanhai": 25,  "yadan": 24 },
+      { "name": "硬盘_512GB_SSD", "lanhai": 2500,  "yadan": 2400 },
       { "name": "硬盘_1TB_SSD",   "lanhai": 49,  "yadan": 49.5 },
       { "name": "硬盘_2TB_SSD",   "lanhai": 93.5,    "yadan": 96.5 }
     ],
@@ -12,7 +12,7 @@
       "Laptop": [
         { "name": "8GB_DDR5_笔记本",  "lanhai": 22,   "yadan": 21 },
         { "name": "16GB_DDR5_笔记本", "lanhai": 37, "yadan": 39 },
-        { "name": "32GB_DDR5_笔记本", "lanhai": 71,   "yadan": 78 }
+        { "name": "32GB_DDR5_笔记本", "lanhai": 7100,   "yadan": 7800 }
       ],
       "Desktop": [
         { "name": "8GB_DDR5_台机",   "lanhai": 22,   "yadan": 21.5 },
