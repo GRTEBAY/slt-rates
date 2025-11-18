@@ -4,7 +4,7 @@
     "storage": [
       { "name": "硬盘_128GB_SSD", "lanhai": 14.25, "yadan": 10.00 },
       { "name": "硬盘_256GB_SSD", "lanhai": 17.50, "yadan": 12.00 },
-      { "name": "硬盘_512GB_SSD", "lanhai": 32.00, "yadan": 28.00 },
+      { "name": "硬盘_512GB_SSD", "lanhai": 40.00, "yadan": 28.00 },
       { "name": "硬盘_1TB_SSD",   "lanhai": 76.00, "yadan": 69.50 },
       { "name": "硬盘_2TB_SSD",   "lanhai": 145.00, "yadan": 131.50 },
       { "name": "硬盘_4TB_SSD",   "lanhai": 230.00, "yadan": 205.00 },
