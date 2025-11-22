@@ -4,39 +4,39 @@
     "storage": [
       { "name": "硬盘_128GB_SSD", "lanhai": 14.25, "yadan": 10.00 },
       { "name": "硬盘_256GB_SSD", "lanhai": 17.50, "yadan": 12.00 },
-      { "name": "硬盘_512GB_SSD", "lanhai": 40.00, "yadan": 28.00 },
-      { "name": "硬盘_1TB_SSD",   "lanhai": 76.00, "yadan": 69.50 },
+      { "name": "硬盘_512GB_SSD", "lanhai": 42.00, "yadan": 28.00 },
+      { "name": "硬盘_1TB_SSD",   "lanhai": 82.00, "yadan": 69.50 },
       { "name": "硬盘_2TB_SSD",   "lanhai": 145.00, "yadan": 131.50 },
-      { "name": "硬盘_4TB_SSD",   "lanhai": 230.00, "yadan": 205.00 },
-      { "name": "硬盘_1TB_SSD_2242", "lanhai": 78.00, "yadan": 64.00 },
-      { "name": "硬盘_1TB_SSD_2230", "lanhai": 78.00, "yadan": 67.00 },
-      { "name": "硬盘_2TB_SSD_2230", "lanhai": 148.00, "yadan": 136.00 },
+      { "name": "硬盘_4TB_SSD",   "lanhai": 240.00, "yadan": 205.00 },
+      { "name": "硬盘_1TB_SSD_2242", "lanhai": 80.00, "yadan": 64.00 },
+      { "name": "硬盘_1TB_SSD_2230", "lanhai": 80.00, "yadan": 67.00 },
+      { "name": "硬盘_2TB_SSD_2230", "lanhai": 152.00, "yadan": 136.00 },
       { "name": "硬盘_2TB_HDD", "lanhai": 66.00, "yadan": 64.00 }
     ],
     "memory": {
       "Laptop": [
         { "name": "8GB_DDR4_笔记本", "lanhai": 32.50, "yadan": 32.00 },
-        { "name": "16GB_DDR4_笔记本", "lanhai": 75.00, "yadan": 66.50 },
-        { "name": "32GB_DDR4_笔记本", "lanhai": 155.00, "yadan": 130.00 },
-        { "name": "8GB_DDR5_笔记本", "lanhai": 35.00, "yadan": 35.00 },
-        { "name": "16GB_DDR5_笔记本", "lanhai": 91.00, "yadan": 92.50 },
-        { "name": "32GB_DDR5_笔记本", "lanhai": 182.00, "yadan": 183.00 }
+        { "name": "16GB_DDR4_笔记本", "lanhai": 69.50, "yadan": 66.50 },
+        { "name": "32GB_DDR4_笔记本", "lanhai": 150.00, "yadan": 130.00 },
+        { "name": "8GB_DDR5_笔记本", "lanhai": 50.00, "yadan": 35.00 },
+        { "name": "16GB_DDR5_笔记本", "lanhai": 96.00, "yadan": 92.50 },
+        { "name": "32GB_DDR5_笔记本", "lanhai": 188.00, "yadan": 183.00 }
       ],
       "Desktop": [
         { "name": "8GB_DDR4_台机", "lanhai": 32.50, "yadan": 33.00 },
         { "name": "16GB_DDR4_台机", "lanhai": 69.50, "yadan": 75.00 },
         { "name": "32GB_DDR4_台机", "lanhai": 150.00, "yadan": 143.50 },
-        { "name": "8GB_DDR5_台机", "lanhai": 45.00, "yadan": 35.00 },
-        { "name": "16GB_DDR5_台机", "lanhai": 91.00, "yadan": 92.50 },
-        { "name": "32GB_DDR5_台机", "lanhai": 182.00, "yadan": 183.00 }
+        { "name": "8GB_DDR5_台机", "lanhai": 50.00, "yadan": 35.00 },
+        { "name": "16GB_DDR5_台机", "lanhai": 96.00, "yadan": 92.50 },
+        { "name": "32GB_DDR5_台机", "lanhai": 188.00, "yadan": 183.00 }
       ],
       "AIO": [
         { "name": "8GB_DDR4_AIO", "lanhai": 32.50, "yadan": 33.00 },
         { "name": "16GB_DDR4_AIO", "lanhai": 69.50, "yadan": 75.00 },
         { "name": "32GB_DDR4_AIO", "lanhai": 150.00, "yadan": 143.50 },
-        { "name": "8GB_DDR5_AIO", "lanhai": 45.00, "yadan": 35.00 },
-        { "name": "16GB_DDR5_AIO", "lanhai": 91.00, "yadan": 92.50 },
-        { "name": "32GB_DDR5_AIO", "lanhai": 182.00, "yadan": 183.00 }
+        { "name": "8GB_DDR5_AIO", "lanhai": 50.00, "yadan": 35.00 },
+        { "name": "16GB_DDR5_AIO", "lanhai": 96.00, "yadan": 92.50 },
+        { "name": "32GB_DDR5_AIO", "lanhai": 188.00, "yadan": 183.00 }
       ],
       "Console": [
         { "name": "8GB_DDR5_Console", "lanhai": 22.00, "yadan": 21.50 },
